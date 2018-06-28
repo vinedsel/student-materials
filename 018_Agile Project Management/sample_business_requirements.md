@@ -17,7 +17,6 @@
 *The Scope section should outline what is and is not included as part of this project.  Oftentimes we make assumptions of features or functionality that is not necessarily required.  This is especially useful in a phased approach or when working on an existing system.*
 
 ## Functional requirements
-
 *This is where most of the detail should reside.  describe all of the required capabilities of the system in detail.  It is helpful to articulate features in terms of user capabilities.  Keep in mind that the features will be designed and developed off of these descriptions, so if you leave anything up to interpretation, you run the risk of the results not meeting your expectations.  You can also assume capabilities that are not mentioned here will not be included in the project, no matter how common or obvious they are.  You may want to break our subsections for each major feature to make the document more organized.*
 
 
